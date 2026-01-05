@@ -2,6 +2,13 @@
 
 **Build a context operating system where your AI never forgets what you've taught it.**
 
+A context operating system centralizes your scatter documents, transcripts and other working context sources into an living source of truth that eliminates the endless context switching and constantly having to tell your AI the same thing over and over. 
+
+Instead, you get a compounding intelligence asset that gets smarter the more you use it, since once you solve a problem with your context OS you can save it and reuse it forever. 
+
+[![Watch the GTM Context OS Quickstart](https://img.youtube.com/vi/acI1zRtpgEc/maxresdefault.jpg)](https://youtu.be/acI1zRtpgEc)
+
+
 ## The Problem
 
 Every new AI session starts from scratch. You re-explain your business, re-teach your preferences, re-provide context. Knowledge doesn't compound.
