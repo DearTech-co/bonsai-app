@@ -1,0 +1,3 @@
+[submodule "bonsai-bloom"]
+	path = bonsai-bloom
+	url = https://github.com/DearTech-co/bonsai-bloom.git

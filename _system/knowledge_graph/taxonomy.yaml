@@ -1,0 +1,78 @@
+# Bonsai Marketplace - Knowledge Graph Taxonomy
+# Domain-specific tags for the marketplace application
+
+version: 1.1.0
+last_updated: 2026-01-14
+
+domains:
+  blessed:
+    - product           # Features, UX, user stories
+    - technical         # Architecture, stack, integrations
+    - business          # Market, legal, pricing
+    - user-research     # Personas, feedback, insights
+    - emergent          # New concepts not yet validated
+
+node_types:
+  blessed:
+    - feature           # Product features
+    - requirement       # Business/technical requirements
+    - decision          # Architectural/product decisions
+    - user-story        # User stories and journeys
+    - concept           # Core ideas
+    - pattern           # Repeatable approaches
+    - research          # User research findings
+
+status_values:
+  blessed:
+    - emergent          # Identified but not validated
+    - proposed          # Under consideration
+    - decided           # Decision made
+    - implemented       # Built and deployed
+    - deprecated        # No longer relevant
+
+# Domain-specific tags - start small, grow organically
+topic_library:
+  product:
+    - marketplace
+    - listings
+    - search
+    - ratings
+    - forum
+    - media
+    - notifications
+    - features        # Feature specifications and implementations
+    - mvp             # MVP scope and requirements
+  technical:
+    - frontend
+    - backend
+    - database
+    - api
+    - auth
+    - storage
+    - deployment
+    - architecture    # System design and structure
+  business:
+    - pricing
+    - legal
+    - competitors
+    - market-size
+    - monetization
+  user-research:
+    - persona
+    - journey
+    - pain-point
+    - feedback
+
+# User types in the system
+user_types:
+  - individual-seller
+  - business-seller
+  - buyer
+  - moderator
+  - admin
+
+# Quality thresholds
+quality_thresholds:
+  tag_sprawl_warning: 25
+  minimum_topic_count: 3
+  maximum_topic_count: 7

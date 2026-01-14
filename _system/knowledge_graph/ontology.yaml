@@ -1,0 +1,75 @@
+# Bonsai Marketplace - Knowledge Graph Ontology
+# Defines how concepts relate in this application context
+
+version: 1.0.0
+last_updated: 2026-01-12
+
+relationship_types:
+
+  enables:
+    description: "A makes B possible (foundational dependency)"
+    example: "[[user-authentication]] enables [[seller-listings]]"
+
+  requires:
+    description: "A needs B to function"
+    example: "[[rating-system]] requires [[completed-transaction]]"
+
+  supports:
+    description: "A provides evidence or capability for B"
+    example: "[[photo-upload]] supports [[listing-quality]]"
+
+  implements:
+    description: "A is practical execution of B"
+    example: "[[stripe-integration]] implements [[payment-processing]]"
+
+  conflicts_with:
+    description: "A and B are mutually exclusive or create tension"
+    example: "[[anonymous-listings]] conflicts_with [[trust-building]]"
+
+  depends_on:
+    description: "A cannot be built until B exists"
+    example: "[[forum-moderation]] depends_on [[user-roles]]"
+
+  extends:
+    description: "A adds capability to B"
+    example: "[[business-profiles]] extends [[user-profiles]]"
+
+# Feature dependency chains (common patterns)
+dependency_patterns:
+  marketplace_flow:
+    - user-registration
+    - profile-creation
+    - listing-creation
+    - search-discovery
+    - transaction
+    - rating
+
+  trust_building:
+    - identity-verification
+    - transaction-history
+    - rating-accumulation
+    - trust-score
+
+linking_requirements:
+  all_nodes:
+    minimum_links: 2
+    description: "Every node should link to 2+ other nodes"
+
+  emergent_nodes:
+    minimum_links: 1
+    description: "New concepts can start with 1 link"
+
+  decision_nodes:
+    required_links:
+      - alternatives_considered
+      - rationale
+    description: "Decisions must link to what was considered and why"
+
+# Attribution requirements
+quality_standards:
+  attribution_required: true
+  formats:
+    decided: "[DECIDED: rationale]"
+    proposed: "[PROPOSED: reasoning]"
+    open: "[OPEN: needs discussion]"
+    verified: "[VERIFIED: source]"
