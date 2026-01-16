@@ -7,8 +7,7 @@ status: implemented
 last_updated: 2026-01-13
 tags:
   - technical
-  - frontend
-  - architecture
+  - marketplace
 topics:
   - frontend
   - database

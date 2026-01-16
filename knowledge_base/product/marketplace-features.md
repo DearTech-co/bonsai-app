@@ -7,8 +7,7 @@ status: implemented
 last_updated: 2026-01-13
 tags:
   - product
-  - features
-  - mvp
+  - marketplace
 topics:
   - marketplace
   - listings

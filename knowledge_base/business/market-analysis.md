@@ -15,6 +15,8 @@ topics:
 related_concepts:
   - "[[product-vision]]"
   - "[[pricing-strategy]]"
+  - "[[user-personas]]"
+  - "[[marketplace-features]]"
 source:
   type: research
   date: "2026-01-14"

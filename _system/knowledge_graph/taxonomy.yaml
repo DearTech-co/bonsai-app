@@ -42,6 +42,7 @@ topic_library:
     - notifications
     - features        # Feature specifications and implementations
     - mvp             # MVP scope and requirements
+    - vision          # Product vision and strategy
   technical:
     - frontend
     - backend

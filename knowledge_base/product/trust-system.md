@@ -7,7 +7,7 @@ status: implemented
 last_updated: 2026-01-12
 tags:
   - product
-  - ratings
+  - marketplace
 topics:
   - marketplace
   - safety

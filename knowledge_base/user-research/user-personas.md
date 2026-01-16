@@ -7,6 +7,7 @@ status: emergent
 last_updated: 2026-01-14
 tags:
   - user-research
+  - product
   - marketplace
 topics:
   - persona

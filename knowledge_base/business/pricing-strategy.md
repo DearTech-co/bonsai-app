@@ -7,7 +7,7 @@ status: emergent
 last_updated: 2026-01-14
 tags:
   - business
-  - monetization
+  - marketplace
 topics:
   - pricing
   - monetization
