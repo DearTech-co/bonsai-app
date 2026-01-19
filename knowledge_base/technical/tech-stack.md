@@ -13,6 +13,8 @@ topics:
   - database
   - auth
   - deployment
+  - storage
+  - media
 related_concepts:
   - "[[database-schema]]"
   - "[[marketplace-features]]"

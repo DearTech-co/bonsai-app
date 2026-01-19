@@ -1,9 +1,26 @@
 ---
-title: About Page Refactor Showcase
-date: 2026-01-19
-status: completed
-tags: [refactor, showcase, about-page, performance, accessibility]
-related: [about-page-audit, tech-stack]
+name: ABOUT_PAGE_REFACTOR_SHOWCASE
+description: Complete refactoring of the About page from monolithic 370-line component to modular, performant, and accessible architecture with code splitting and design system compliance
+domain: technical
+node_type: decision
+status: implemented
+last_updated: 2026-01-19
+tags:
+  - technical
+  - frontend
+topics:
+  - frontend
+  - architecture
+  - deployment
+related_concepts:
+  - "[[about-page-audit]]"
+  - "[[tech-stack]]"
+  - "[[deployment-architecture]]"
+  - "[[marketplace-features]]"
+source:
+  type: refactor
+  file: "bonsai-bloom/src/pages/About.tsx"
+  date: "2026-01-19"
 ---
 
 # About Page Refactor Showcase

@@ -1,9 +1,25 @@
 ---
-title: About Page Comprehensive Audit
-date: 2026-01-19
-status: needs-action
-tags: [audit, ux, performance, design, about-page]
-related: [tech-stack, frontend-design]
+name: ABOUT_PAGE_AUDIT
+description: Comprehensive audit of the About page identifying critical issues across visual design, UX, performance, code quality, and accessibility
+domain: technical
+node_type: reference
+status: completed
+last_updated: 2026-01-19
+tags:
+  - technical
+  - frontend
+topics:
+  - frontend
+  - deployment
+related_concepts:
+  - "[[tech-stack]]"
+  - "[[about-page-refactor-showcase]]"
+  - "[[marketplace-features]]"
+  - "[[deployment-architecture]]"
+source:
+  type: audit
+  file: "bonsai-bloom/src/pages/About.tsx"
+  date: "2026-01-19"
 ---
 
 # About Page Comprehensive Audit

@@ -12,6 +12,9 @@ topics:
   - api
   - database
   - auth
+  - storage
+  - ratings
+  - media
 related_concepts:
   - "[[database-schema]]"
   - "[[tech-stack]]"

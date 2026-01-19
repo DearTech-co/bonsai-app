@@ -13,6 +13,8 @@ topics:
   - api
   - auth
   - storage
+  - ratings
+  - media
 related_concepts:
   - "[[tech-stack]]"
   - "[[trust-system]]"

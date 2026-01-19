@@ -11,6 +11,8 @@ tags:
 topics:
   - journey
   - persona
+  - ratings
+  - reputation
 related_concepts:
   - "[[user-personas]]"
   - "[[marketplace-features]]"
