@@ -17,6 +17,9 @@ related_concepts:
   - "[[database-schema]]"
   - "[[marketplace-features]]"
   - "[[trust-system]]"
+  - "[[api-contracts]]"
+  - "[[security-decisions]]"
+  - "[[deployment-architecture]]"
 source:
   type: codebase
   file: "bonsai-bloom/"

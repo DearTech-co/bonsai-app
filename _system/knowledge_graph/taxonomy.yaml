@@ -43,6 +43,9 @@ topic_library:
     - features        # Feature specifications and implementations
     - mvp             # MVP scope and requirements
     - vision          # Product vision and strategy
+    - safety          # Trust and security related
+    - reputation      # User reputation features
+    - permissions     # Access control and roles
   technical:
     - frontend
     - backend

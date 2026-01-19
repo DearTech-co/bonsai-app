@@ -10,12 +10,16 @@ tags:
   - marketplace
 topics:
   - marketplace
-  - authentication
+  - auth
   - permissions
 related_concepts:
   - "[[product-vision]]"
   - "[[trust-system]]"
   - "[[marketplace-features]]"
+  - "[[security-decisions]]"
+  - "[[api-contracts]]"
+  - "[[user-personas]]"
+  - "[[database-schema]]"
 ---
 
 # User Types

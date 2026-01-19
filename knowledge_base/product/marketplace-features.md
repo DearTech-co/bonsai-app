@@ -19,6 +19,10 @@ related_concepts:
   - "[[database-schema]]"
   - "[[user-types]]"
   - "[[trust-system]]"
+  - "[[api-contracts]]"
+  - "[[security-decisions]]"
+  - "[[user-journey-maps]]"
+  - "[[user-personas]]"
 source:
   type: codebase
   file: "bonsai-bloom/src/"

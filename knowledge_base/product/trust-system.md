@@ -12,10 +12,14 @@ topics:
   - marketplace
   - safety
   - reputation
+  - ratings
 related_concepts:
   - "[[user-types]]"
   - "[[product-vision]]"
   - "[[marketplace-features]]"
+  - "[[security-decisions]]"
+  - "[[api-contracts]]"
+  - "[[database-schema]]"
 ---
 
 # Trust System

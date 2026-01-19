@@ -18,6 +18,9 @@ related_concepts:
   - "[[trust-system]]"
   - "[[user-types]]"
   - "[[marketplace-features]]"
+  - "[[api-contracts]]"
+  - "[[security-decisions]]"
+  - "[[deployment-architecture]]"
 source:
   type: codebase
   file: "bonsai-bloom/supabase/migrations/"

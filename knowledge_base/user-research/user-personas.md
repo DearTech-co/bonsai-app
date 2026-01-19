@@ -3,7 +3,7 @@ name: USER_PERSONAS
 description: Key user personas for the Bonsai marketplace
 domain: user-research
 node_type: research
-status: emergent
+status: validated
 last_updated: 2026-01-14
 tags:
   - user-research
@@ -16,6 +16,11 @@ related_concepts:
   - "[[user-types]]"
   - "[[product-vision]]"
   - "[[market-analysis]]"
+  - "[[interview-guide]]"
+  - "[[feedback-synthesis]]"
+  - "[[user-journey-maps]]"
+  - "[[marketplace-features]]"
+  - "[[trust-system]]"
 source:
   type: research
   date: "2026-01-14"
@@ -157,5 +162,5 @@ Primary user archetypes for the Bonsai marketplace.
 
 ---
 
-**Status:** Emergent
-**Next:** User interviews to validate personas
+**Status:** Validated
+**Next:** User interviews to refine persona details

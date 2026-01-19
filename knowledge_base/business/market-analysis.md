@@ -3,7 +3,7 @@ name: MARKET_ANALYSIS
 description: South African bonsai market research and competitive landscape
 domain: business
 node_type: research
-status: emergent
+status: validated
 last_updated: 2026-01-14
 tags:
   - business
@@ -17,6 +17,8 @@ related_concepts:
   - "[[pricing-strategy]]"
   - "[[user-personas]]"
   - "[[marketplace-features]]"
+  - "[[user-types]]"
+  - "[[feedback-synthesis]]"
 source:
   type: research
   date: "2026-01-14"
@@ -76,5 +78,5 @@ Currently no dedicated bonsai marketplace in South Africa.
 
 ---
 
-**Status:** Emergent
-**Next:** Validate assumptions through user research
+**Status:** Validated
+**Next:** Quantify market size through user surveys

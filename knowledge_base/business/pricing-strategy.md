@@ -3,7 +3,7 @@ name: PRICING_STRATEGY
 description: Revenue model and pricing decisions for the marketplace
 domain: business
 node_type: decision
-status: emergent
+status: proposed
 last_updated: 2026-01-14
 tags:
   - business
@@ -15,6 +15,9 @@ related_concepts:
   - "[[market-analysis]]"
   - "[[product-vision]]"
   - "[[user-types]]"
+  - "[[user-personas]]"
+  - "[[marketplace-features]]"
+  - "[[feedback-synthesis]]"
 source:
   type: documentation
   date: "2026-01-14"
@@ -85,5 +88,5 @@ No fees during initial launch phase to:
 
 ---
 
-**Status:** Emergent
+**Status:** Proposed
 **Next:** User research on willingness to pay
