@@ -17,6 +17,7 @@ related_concepts:
   - "[[api-contracts]]"
   - "[[security-decisions]]"
   - "[[database-schema]]"
+  - "[[email-integration]]"
 source:
   type: codebase
   file: "bonsai-bloom/vite.config.ts"

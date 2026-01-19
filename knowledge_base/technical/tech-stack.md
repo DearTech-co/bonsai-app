@@ -20,6 +20,7 @@ related_concepts:
   - "[[api-contracts]]"
   - "[[security-decisions]]"
   - "[[deployment-architecture]]"
+  - "[[email-integration]]"
 source:
   type: codebase
   file: "bonsai-bloom/"
