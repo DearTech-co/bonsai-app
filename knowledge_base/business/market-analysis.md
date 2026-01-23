@@ -4,7 +4,7 @@ description: South African bonsai market research and competitive landscape
 domain: business
 node_type: research
 status: validated
-last_updated: 2026-01-14
+last_updated: 2026-01-23
 tags:
   - business
   - marketplace
@@ -19,6 +19,11 @@ related_concepts:
   - "[[marketplace-features]]"
   - "[[user-types]]"
   - "[[feedback-synthesis]]"
+  - "[[trust-system]]"
+  - "[[competitors]]"
+  - "[[legal-requirements]]"
+  - "[[monetization-strategy]]"
+  - "[[tech-stack]]"
 source:
   type: research
   date: "2026-01-14"

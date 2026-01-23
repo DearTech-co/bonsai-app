@@ -1,8 +1,8 @@
 # Bonsai Marketplace - Knowledge Graph Taxonomy
 # Domain-specific tags for the marketplace application
 
-version: 1.1.0
-last_updated: 2026-01-14
+version: 1.2.0
+last_updated: 2026-01-23
 
 domains:
   blessed:

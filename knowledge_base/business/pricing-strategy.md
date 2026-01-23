@@ -4,7 +4,7 @@ description: Revenue model and pricing decisions for the marketplace
 domain: business
 node_type: decision
 status: proposed
-last_updated: 2026-01-14
+last_updated: 2026-01-23
 tags:
   - business
   - marketplace
@@ -18,6 +18,10 @@ related_concepts:
   - "[[user-personas]]"
   - "[[marketplace-features]]"
   - "[[feedback-synthesis]]"
+  - "[[trust-system]]"
+  - "[[competitors]]"
+  - "[[legal-requirements]]"
+  - "[[monetization-strategy]]"
 source:
   type: documentation
   date: "2026-01-14"
